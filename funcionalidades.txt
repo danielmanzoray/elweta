@@ -1,3 +1,5 @@
+FUNCIONALIDADES
+
 Acá un listado de funcionalidades de una lista de tareas:
 
 - Listar
