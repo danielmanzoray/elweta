@@ -12,3 +12,9 @@ git add a*.js
 
 Este comando agregará todos los archivos que empiecen con a
 y terminen con la extension .js
+
+Vamos a agregar como se puede inicializar un proyecto:
+
+git init
+
+Esto inicializa un proyecto con git.
