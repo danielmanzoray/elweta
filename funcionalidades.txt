@@ -1,0 +1,6 @@
+Acá un listado de funcionalidades de una lista de tareas:
+
+- Listar
+- Agregar
+- Cambiar texto
+- Marcar como terminada
