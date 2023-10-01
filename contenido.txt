@@ -22,3 +22,7 @@ Esto inicializa un proyecto con git.
 Ahora para descartar cambios en area de trabajo:
 
 git restore archivo 
+
+Ahora para descartar cambios en area de staging:
+
+git restore --staged archivo 
