@@ -6,3 +6,4 @@ Acá un listado de funcionalidades de una lista de tareas:
 - Notificar al usuario sobre la tarea en determinada fecha
 - Notificar al usuario sobre tarea cuando se acerca a un lugar
 - Quitar que se puedan modificar los títulos
+- Archivas tarea
