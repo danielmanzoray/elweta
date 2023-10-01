@@ -4,3 +4,4 @@ Acá un listado de funcionalidades de una lista de tareas:
 - Agregar
 - Cambiar texto
 - Marcar como terminada
+- Notificar al usuario sobre la tarea en determinada fecha
