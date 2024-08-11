@@ -1,2 +1,2 @@
 # NO ELIMINAR directorio .git
-esto corromperá tu proyecto :(lineaDePruebaStash
+esto corromperá tu proyecto :(
